@@ -4,7 +4,11 @@
   <img width="200" src="https://virufy.org/img/logos/virufy-logo.svg">
 </p>
 
-## Why?
+Virufy is a volunteer-run organization uniting the world to build a global artificial intelligence (AI) database of crowdsourced cough sounds to identify patterns that signify respiratory diseases, such as COVID-19.
+
+Our research paper can be found on [arXiv](https://virufy.org/paper). Please cite us if you reference our materials!
+
+## Why Open Data?
 The COVID-19 pandemic is extremely detrimental to society and we need to all work together to overcome it. AI needs big data to work and we are unaware of any open source COVID-19 cough datasets anywhere in the world. We want to benefit humanity and have decided to be pioneers in open sourcing the first free COVID-19 cough dataset. This will spur innovation and collaboration from academia and industry all over the world.
 
 ## Data
